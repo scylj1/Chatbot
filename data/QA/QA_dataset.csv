@@ -1,0 +1,42 @@
+QuestionID,Question,Answer
+Q1,How is the quality,Quality is good
+Q2,Is this product genuine?,Product is genuine
+Q3,Does it smell strange,It smells good
+Q4,Does the color look good,Color is good
+Q5,Is it the right size?,Size is good
+Q6,Is it breathable?,It is breathable
+Q7,Is the packaging okay?,Packing is good
+Q8,Will it strangle ears?,No
+Q9,Is it comfortable to wear,It is comfortable
+Q10,Is it cost-effective?,It is cost-effective
+Q11,Does the product have a certificate,It has a certificate
+Q12,Is the shelf life long?,It is life long
+Q13,Is the product clean?,It is clean
+Q14,Is the shipment fast?,The shipment is fast
+Q15,Is the mask thick?,The mask is thick
+Q16,Where are you,I live in the program
+Q17,How do you do,"I'm fine, thanks"
+Q18,How are you doing,"Fine, and you?"
+Q19,How are you,"I'm good, how are you?"
+Q20,What can you do,I can guide you through masks transactions and written review
+Q21,What is the quality,Quality is good
+Q22,product genuine?,Product is genuine
+Q23,smell strange,It smells good
+Q24,color look good,Color is good
+Q25,right size?,Size is good
+Q26,breathable?,It is breathable
+Q27,packaging okay?,Packing is good
+Q28,strangle ears?,No
+Q29,comfortable to wear?,It is comfortable
+Q30,cost-effective?,It is cost-effective
+Q31,product have a certificate,It has a certificate
+Q32,life long?,It is life long
+Q33,product clean?,It is clean
+Q34,shipment fast?,The shipment is fast
+Q35,mask thick?,The mask is thick
+Q36,is it expensive,It is cheap
+Q37,expensive?,It is not expensive
+Q38,what type of mask do you sale,"We offer N95 mask, Medical surgical mask and Activated carbon mask"
+Q39,type of mask,"We offer N95 mask, Medical surgical mask and Activated carbon mask"
+Q40,mask type,"We offer N95 mask, Medical surgical mask and Activated carbon mask"
+Q41,kind of mask sale,"We offer N95 mask, Medical surgical mask and Activated carbon mask"

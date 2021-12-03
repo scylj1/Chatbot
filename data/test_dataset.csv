@@ -1,0 +1,21 @@
+userinput,expected answer
+Hi,hi
+I want to make an order,transaction
+what's up,greeting
+How is the weather,weather
+How old are you,age
+Where do you live,home
+What help you provide,options
+Thanks,thanks
+Bye ,goodbye
+I am bad,negative
+I am fine,positive
+Nice,positive
+I want to buy some masks,transaction
+I want to make some reviews,feedback
+Is anyone there,options
+That's helpful,thanks
+Give feedback,feedback
+What can you do,options
+fantastic,positive
+I don't you what I can say,options

@@ -1,0 +1,71 @@
+{"intents": [
+        {"tag": "hi",
+         "patterns": ["Hi there", "Is anyone there?","Hey","Hola", "Hello", "Good day", "good morning", "good afternoon", "good evening", "greeting", "Hi", "Nice to meet you", "It is a pleasure to meet you"],
+         "responses": ["Hello, thanks for asking", "Good to see you!", "Hi there, how can I help?"],
+         "context": [""]
+        },
+		{"tag": "greeting",
+         "patterns": ["How are you", "How is it going", "How is everything going", "How are you doing", "How do you do", "What's up"],
+         "responses": ["I'm Fine, thanks.", "Fine, and you?", "I'm doing well, thank you"],
+         "context": [""]
+        },
+		{"tag": "positive",
+         "patterns": ["I'm good", "I'm Fine, thanks.", "Fine", "I'm doing well", "Yes", "Sure", "Of coures","Good", "Nice", "OK", "It's nice", "That's good"],
+         "responses": ["That's good to hear", "Good", "Nice"],
+         "context": [""]
+        },
+		{"tag": "negative",
+         "patterns": ["I'm not good", "bad", "not much"],
+         "responses": ["That's bad", "I am sorry", "Try to be happy"],
+         "context": [""]
+        },
+        {"tag": "goodbye",
+         "patterns": ["Bye", "See you later", "Goodbye", "Nice chatting to you, bye", "Till next time"],
+         "responses": ["See you!", "Have a nice day", "Bye! Come back again soon."],
+         "context": [""]
+        },
+        {"tag": "thanks",
+         "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
+         "responses": ["Happy to help!", "My pleasure"],
+         "context": [""]
+        },
+        {"tag": "noanswer",
+         "patterns": [],
+         "responses": ["Sorry, can't understand you", "Please give me more info", "Not sure I understand"],
+         "context": [""]
+        },
+        {"tag": "options",
+         "patterns": ["How you could help me?", "What you can do?", "What help you provide?", "How you can be helpful?", "What support is offered", "Tell me something", "How can you help me", "I have a question"],
+         "responses": ["I can guide you through masks transactions and written review", "Offering support for mask transactions and feedback collecting"],
+         "context": [""]
+        },
+		{"tag": "home",
+         "patterns": ["Where do you live", "Where are you"],
+         "responses": ["I live in the program", "I'm in the world you cannot see"],
+         "context": [""]
+        },
+		{"tag": "age",
+         "patterns": ["How old are you", "What's your age"],
+         "responses": ["I am 1 years old", "I was born in 2021"],
+         "context": [""]
+        },
+		{"tag": "weather",
+         "patterns": ["How is the weather", "What's the weather"],
+         "responses": ["I believe it's sunny", "Maybe raining, I'm not sure"],
+         "context": [""]
+        },
+		
+		{"tag": "transaction",
+         "patterns": ["I want to buy masks", "want some mask", "I want to order masks", "order", "transaction", "I want to make an order", "begin transaction", "buy mask", "make orders"],
+         "responses": ["Navigating to transaction mode"],
+         "context": [""]
+        },
+		
+		{"tag": "feedback",
+         "patterns": ["I want to give some feedback", "leave feedback", "give feedback", "I want to do a review", "make review", "I want to make some comments", "give comments" ,"leave comments"],
+         "responses": ["Navigating to review mode"],
+         "context": [""]
+        }
+        
+   ]
+}
